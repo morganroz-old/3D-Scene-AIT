@@ -1,0 +1,48 @@
+﻿  Source.cpp
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(593): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(650): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(654): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(669): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(673): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(845): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(912): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(972): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(992): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1096): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1098): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1280): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1281): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1431): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1448): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1465): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1529): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1538): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1540): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1552): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1578): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1604): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1642): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1644): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1646): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1648): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1657): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1670): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1671): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1680): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1681): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1682): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1683): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1690): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1691): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1696): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1701): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1705): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1710): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1759): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1800): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1825): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\3d game v3\3d game v3\source.cpp(1829): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3D Game V3.vcxproj -> C:\Users\Morgan\documents\visual studio 2015\Projects\3D Game V3\Debug\3D Game V3.exe
+  3D Game V3.vcxproj -> C:\Users\Morgan\documents\visual studio 2015\Projects\3D Game V3\Debug\3D Game V3.pdb (Partial PDB)
